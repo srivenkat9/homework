@@ -1,3 +1,16 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+5 Something extra 
+5 Respond to switch
+3 ReadMe.txt    - Please write your own ReadMe.txt
+5 Not late
+
+
+Grade: 23/25
+
+=======================================
+
 				Date:14/10/2015
  
  To   :Mark Yoder
