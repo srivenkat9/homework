@@ -1,9 +1,0 @@
-Date:13/10/2015
- 
- To   :Mark Yoder
- From :K Guru Sri Venkat
-        B13213
-  Subject:hw05
-
-Subject:
- c program to read a switch and control an led using mmap function
