@@ -1,0 +1,8 @@
+To   :Mark Yoder
+  From :K Srivenkat
+        B13213
+  Subject:hw03
+
+1.Radio transmitter 
+2.Controlling  the brightness of the bulbs in the room as per the hotness outside. 
+3.Checking the pulse (for heart-patients) and sending message to relatives in case of emergency.
